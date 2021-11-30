@@ -1,2 +1,1 @@
-# landing-page
-Landing page implemented on HTML/CSS/JS
+[Click here](https://olegkrasilev.github.io/landing-page/)
